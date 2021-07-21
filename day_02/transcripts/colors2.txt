@@ -1,0 +1,15 @@
+COLORS REPORT
+     color|length
+--------------------
+
+       red|4
+     green|6
+      blue|5
+    yellow|7
+    maroon|7
+      cyan|5
+   magenta|8
+      pink|5
+     white|6
+      grey|5
+     black|6

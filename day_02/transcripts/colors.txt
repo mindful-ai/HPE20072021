@@ -1,0 +1,11 @@
+red
+green
+blue
+yellow
+maroon
+cyan
+magenta
+pink
+white
+grey
+black
